@@ -1,0 +1,14 @@
+{
+    "name": "MainStory",
+    "references": [
+        "GUID:8be212e56a04132429815508ee38e82d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Scroll",
+    "references": [
+        "GUID:8be212e56a04132429815508ee38e82d",
+        "GUID:5be86928c3bba3c45a9a9d44b87c1db8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
